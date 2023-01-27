@@ -1,6 +1,6 @@
 {
   "name": "mytvmazeapp",
-  "homepage": "https://github.com/Arsh1070/TVMaze",
+  "homepage": "https://arsh1070.github.io/TVMaze/",
   "proxy": "https://api.tvmaze.com",
   "version": "0.1.0",
   "private": true,
