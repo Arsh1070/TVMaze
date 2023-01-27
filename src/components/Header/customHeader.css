@@ -1,0 +1,9 @@
+.CustomHeader {
+  display: grid;
+  grid-template-columns: 20% 80%;
+  grid-template-rows: auto;
+  background-color: #001529;
+}
+.logo {
+  color: white;
+}

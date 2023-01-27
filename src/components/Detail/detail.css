@@ -1,0 +1,41 @@
+.detailPage {
+  padding: 20px 40px;
+}
+.detailPageHeader {
+  float: left;
+  cursor: pointer;
+}
+.detailPageHeader:hover {
+  color: rgba(0, 0, 0, 0.491);
+}
+.card {
+  display: flex;
+  padding: 20px;
+}
+
+.heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: -35px;
+}
+.heading > strong {
+  font-size: 30px;
+  display: flex;
+  align-items: center;
+}
+.rating {
+  font-size: 14px;
+  font-weight: lighter;
+  margin-top: 5px;
+  margin-left: 7px;
+}
+.subHeading {
+  display: flex;
+}
+.summary {
+  text-align: left;
+}
+.star {
+  padding-right: 5px;
+}
